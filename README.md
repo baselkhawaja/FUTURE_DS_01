@@ -72,3 +72,6 @@ This analysis highlights important business trends and provides insights that ca
 ##  Connect with Me
 
 Feel free to connect with me on LinkedIn to see more of my work and projects!
+www.linkedin.com/in/basel-khawaja-3a444b370
+
+
