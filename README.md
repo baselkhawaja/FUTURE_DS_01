@@ -1,3 +1,4 @@
+![Sales Dashboard](dashboard_pic.png)
 #  Sales Performance Dashboard (Task 1)
 
 ##  Overview
