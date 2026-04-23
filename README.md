@@ -63,7 +63,7 @@ This project analyzes business sales data to identify key trends, top-performing
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 
 This analysis highlights important business trends and provides insights that can help improve decision-making, optimize product focus, and identify high-performing regions.
 
