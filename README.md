@@ -1,4 +1,5 @@
-![Sales Dashboard](dashboard_pic.png)
+<img width="1799" height="713" alt="dashboard_pic" src="https://github.com/user-attachments/assets/c38957e4-6af6-474d-ab53-21431970820c" />
+
 #  Sales Performance Dashboard (Task 1)
 
 ##  Overview
